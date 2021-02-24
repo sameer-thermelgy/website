@@ -40,10 +40,10 @@ const TeamMembers = () => {
                 <div className="section-title">
                     <span>Team Members</span>
                     <h2>People Who are Behind the Achievements</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse.</p>
+                    {/* <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse.</p> */}
                 </div>
 
-                {display ? <OwlCarousel 
+                {display ? <OwlCarousel
                     className="home-team-slider owl-carousel owl-theme"
                     {...options}
                 >
@@ -52,7 +52,7 @@ const TeamMembers = () => {
                             <img src="/images/team/team16.jpg" alt="team" />
                             <ul className="social">
                                 <li>
-                                    <a href="#" target="_blank">
+                                    <a href="https://www.linkedin.com/in/satyaseshadri/" target="_blank">
                                         <i className='bx bxl-linkedin'></i>
                                     </a>
                                 </li>
@@ -75,8 +75,8 @@ const TeamMembers = () => {
                         </div>
 
                         <div className="content text-center">
-                            <h3>John Smith</h3>
-                            <p>Full Stack Developer</p>
+                            <h3>Satyanarayan Seshadri</h3>
+                            <p>CTO</p>
                         </div>
                     </div>
 
@@ -85,7 +85,7 @@ const TeamMembers = () => {
                             <img src="/images/team/team17.jpg" alt="team" />
                             <ul className="social">
                                 <li>
-                                    <a href="#" target="_blank">
+                                    <a href="https://www.linkedin.com/in/jayeshprofile/" target="_blank">
                                         <i className='bx bxl-linkedin'></i>
                                     </a>
                                 </li>
@@ -108,8 +108,8 @@ const TeamMembers = () => {
                         </div>
 
                         <div className="content text-center">
-                            <h3>Evana Doe</h3>
-                            <p>Web Developer</p>
+                            <h3>Jayesh Jain</h3>
+                            <p>Managing Director</p>
                         </div>
                     </div>
 
@@ -118,7 +118,7 @@ const TeamMembers = () => {
                             <img src="/images/team/team18.jpg" alt="team" />
                             <ul className="social">
                                 <li>
-                                    <a href="#" target="_blank">
+                                    <a href="https://www.linkedin.com/in/sridharan-murugadass-90bb789b" target="_blank">
                                         <i className='bx bxl-linkedin'></i>
                                     </a>
                                 </li>
@@ -141,8 +141,8 @@ const TeamMembers = () => {
                         </div>
 
                         <div className="content text-center">
-                            <h3>Bread Mc</h3>
-                            <p>IT Consulting</p>
+                            <h3>Sridharan Murugadass</h3>
+                            <p>Cloud Solution Architect</p>
                         </div>
                     </div>
 
@@ -151,7 +151,7 @@ const TeamMembers = () => {
                             <img src="/images/team/team19.jpg" alt="team" />
                             <ul className="social">
                                 <li>
-                                    <a href="#" target="_blank">
+                                    <a href="https://www.linkedin.com/in/shri-krishna-776b91141/" target="_blank">
                                         <i className='bx bxl-linkedin'></i>
                                     </a>
                                 </li>
@@ -174,8 +174,8 @@ const TeamMembers = () => {
                         </div>
 
                         <div className="content text-center">
-                            <h3>Maria Fread</h3>
-                            <p>UI/UX Designer</p>
+                            <h3>Sri Krishna</h3>
+                            <p>Senior Backend Developer</p>
                         </div>
                     </div>
 
@@ -184,7 +184,7 @@ const TeamMembers = () => {
                             <img src="/images/team/team16.jpg" alt="team" />
                             <ul className="social">
                                 <li>
-                                    <a href="#" target="_blank">
+                                    <a href="https://www.linkedin.com/in/sameersanjeevi/" target="_blank">
                                         <i className='bx bxl-linkedin'></i>
                                     </a>
                                 </li>
@@ -207,8 +207,41 @@ const TeamMembers = () => {
                         </div>
 
                         <div className="content text-center">
-                            <h3>John Smith</h3>
-                            <p>Full Stack Developer</p>
+                            <h3>Sameer S</h3>
+                            <p>Product Manager</p>
+                        </div>
+                    </div>
+
+                    <div className="single-team">
+                        <div className="team-img">
+                            <img src="/images/team/team16.jpg" alt="team" />
+                            <ul className="social">
+                                <li>
+                                    <a href="https://www.linkedin.com/in/princymariayesu/" target="_blank">
+                                        <i className='bx bxl-linkedin'></i>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#" target="_blank">
+                                        <i className="bx bxl-facebook"></i>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#" target="_blank">
+                                        <i className="bx bxl-twitter"></i>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#" target="_blank">
+                                        <i className="bx bxs-envelope"></i>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+
+                        <div className="content text-center">
+                            <h3>Princy M</h3>
+                            <p>Frontend Developer</p>
                         </div>
                     </div>
 
@@ -217,7 +250,7 @@ const TeamMembers = () => {
                             <img src="/images/team/team17.jpg" alt="team" />
                             <ul className="social">
                                 <li>
-                                    <a href="#" target="_blank">
+                                    <a href="https://www.linkedin.com/in/asish-johney-george-8115231a0/" target="_blank">
                                         <i className='bx bxl-linkedin'></i>
                                     </a>
                                 </li>
@@ -240,8 +273,8 @@ const TeamMembers = () => {
                         </div>
 
                         <div className="content text-center">
-                            <h3>Evana Doe</h3>
-                            <p>Web Developer</p>
+                            <h3>Asish Johney George</h3>
+                            <p>Research Engineer IOT</p>
                         </div>
                     </div>
 
@@ -273,8 +306,8 @@ const TeamMembers = () => {
                         </div>
 
                         <div className="content text-center">
-                            <h3>Bread Mc</h3>
-                            <p>IT Consulting</p>
+                            <h3>Nikhil Krishna</h3>
+                            <p>Research Engineer IOT</p>
                         </div>
                     </div>
 
@@ -283,7 +316,7 @@ const TeamMembers = () => {
                             <img src="/images/team/team19.jpg" alt="team" />
                             <ul className="social">
                                 <li>
-                                    <a href="#" target="_blank">
+                                    <a href="https://www.linkedin.com/in/abishek-arjunan-b19311a3/" target="_blank">
                                         <i className='bx bxl-linkedin'></i>
                                     </a>
                                 </li>
@@ -306,8 +339,8 @@ const TeamMembers = () => {
                         </div>
 
                         <div className="content text-center">
-                            <h3>Maria Fread</h3>
-                            <p>UI/UX Designer</p>
+                            <h3>Abishek A</h3>
+                            <p>Research Engineer IOT</p>
                         </div>
                     </div>
                 </OwlCarousel> : ''}

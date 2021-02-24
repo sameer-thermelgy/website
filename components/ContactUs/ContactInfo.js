@@ -8,11 +8,11 @@ const ContactInfo = () => {
                     <div className="col-lg-4 col-sm-6">
                         <div className="single-contact">
                             <div className="icon">
-                                <i className='bx bx-time'></i>
+                                <i className='bx bxs-envelope'></i>
                             </div>
                             <div className="content">
-                                <h3>Opening Hours</h3>
-                                <p>Sun - Thu : 10:00 AM - 06:00 PM</p>
+                                <h3>Mail</h3>
+                                <p>info@thermelgy.com</p>
                             </div>
                         </div>
                     </div>
@@ -24,7 +24,7 @@ const ContactInfo = () => {
                             </div>
                             <div className="content">
                                 <h3>Address</h3>
-                                <p>28/A Street, New York City, USA</p>
+                                <p>L-14, Phase II, First floor, Dr. VSI Estate, Near SRP Tools Chennai - 600041 Thiruvanmiyur, Tamilnadu , India</p>
                             </div>
                         </div>
                     </div>
@@ -36,7 +36,7 @@ const ContactInfo = () => {
                             </div>
                             <div className="content">
                                 <h3>Phone</h3>
-                                <p>+1 (321) 984 754</p>
+                                <p>+91-7338883142</p>
                             </div>
                         </div>
                     </div>

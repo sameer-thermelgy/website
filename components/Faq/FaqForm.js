@@ -9,7 +9,7 @@ const FaqForm = () => {
                     <h2>Let Us Know About Your Project Idea!</h2>
                     <p>It is a long established fact that a reader will be distracted by the rea dable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more.</p>
                 </div>
-                
+
                 <div className="content">
                     <form id="contactForm">
                         <div className="row">

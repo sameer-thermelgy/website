@@ -10,7 +10,7 @@ const TopHeader = () => {
                         <div className="logo">
                             <Link href="/">
                                 <a>
-                                    <img src="/images/logo.png" alt="logo" />
+                                    <img src="/images/thermelgy-logo.png" alt="logo" />
                                 </a>
                             </Link>
                         </div>

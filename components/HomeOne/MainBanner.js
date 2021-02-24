@@ -11,7 +11,7 @@ const MainBanner = () => {
                             <div className="col-lg-6">
                                 <div className="banner-content">
                                     <h1>
-                                        Trusted Effective Service and Solutions
+                                        Your Energy Champion
                                     </h1>
                                     <p>
                                         Intelligent Energy and Equipment Monitoring & Predictive Maintenance Solutions
@@ -28,9 +28,18 @@ const MainBanner = () => {
                             </div>
 
                             <div className="col-lg-6">
-                                <div className="banner-img">
-                                    <img src="/images/banner-img-1.png" alt="banner-img" />
-                                </div>
+                                {/* <div className="banner-img"> */}
+                                {/* <img src="/images/banner-img-1.png" alt="banner-img" /> */}
+                                {/* <iframe src='https://www.youtube.com/embed/E7wJTI-1dvQ'
+                                    frameborder='0'
+                                    allow='autoplay; encrypted-media'
+                                    allowfullscreen="true"
+                                    title='video'
+                                    width="500"
+                                    height='350'
+                                    scrolling="yes"
+                                /> */}
+                                {/* </div> */}
                             </div>
                         </div>
                     </div>

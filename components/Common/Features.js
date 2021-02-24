@@ -9,37 +9,37 @@ const Features = () => {
                     <div className="col-lg-6">
                         <div className="contnet">
                             <div className="feature-tittle">
-                                <span>Features</span>
-                                <h2>We Have Also Some Features That Provided by Zoko</h2>
-                                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Incidunt consectetur, beatae quod eaque reprehenderit non ab quibusdam doloribus voluptatibus! Voluptatum aspernatur quasi id dolore doloremque quo vero</p>
+                                <span>Our USP</span>
+                                <h2>We have also some differentiation that provided by us</h2>
+                                {/* <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Incidunt consectetur, beatae quod eaque reprehenderit non ab quibusdam doloribus voluptatibus! Voluptatum aspernatur quasi id dolore doloremque quo vero</p> */}
                             </div>
 
                             <ul>
                                 <li>
                                     <i className="flaticon-correct"></i>
-                                    Freelancing Training Course
+                                    Blend of technologies to solve acute problem of Energy efficiency & post COVID opening of normal operations
                                 </li>
                                 <li>
                                     <i className="flaticon-correct"></i>
-                                    Technological Consultation
+                                    Strong partners (Ideation/prototyping, Manufacturing, Installation & commissioning to Financing)
                                 </li>
                                 <li>
                                     <i className="flaticon-correct"></i>
-                                    Monthly Paid Workspace
+                                    Midst of IITM vibrant eco-system to innovate next technologies on sustained basis to stay ahead
                                 </li>
                                 <li>
                                     <i className="flaticon-correct"></i>
-                                    IT Learning Institute
+                                    High performing team with blend of Expertise and Energy
                                 </li>
                                 <li>
                                     <i className="flaticon-correct"></i>
-                                    Digital Marketing
+                                    Cost effectiveness
                                 </li>
                             </ul>
 
-                            <Link href="#">
-                                <a className="box-btn">Lets Talk!</a>
-                            </Link>
+                            {/* <Link> */}
+                            <a target="_blank" href="https://api.whatsapp.com/send?phone=+919176434397&text=Hi, I would like to contact you." className="box-btn">Lets Talk!</a>
+                            {/* </Link> */}
                         </div>
                     </div>
 

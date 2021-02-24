@@ -11,15 +11,15 @@ const Footer = () => {
                         <div className="col-lg-4 col-md-6">
                             <div className="content">
                                 <div className="logo">
-                                    <Link href="/">
+                                    {/* <Link href="/">
                                         <a>
                                             <img src="/images/logo2.png" alt="logo" />
                                         </a>
-                                    </Link>
+                                    </Link> */}
                                 </div>
-                                <p>
+                                {/* <p>
                                     Lorem ipsum dolor sit amet, mattetur adipiscing elit, sed do eiusmod.
-                                </p>
+                                </p> */}
                                 <div className="subscribe">
                                     <form className="newsletter-form">
                                         <input type="email" id="emails" className="form-control" placeholder="Your Email" name="EMAIL" required />
@@ -170,11 +170,11 @@ const Footer = () => {
                                             <a>Case Studies</a>
                                         </Link>
                                     </li>
-                                    <li>
+                                    {/* <li>
                                         <Link href="/blog">
                                             <a>Clients</a>
                                         </Link>
-                                    </li>
+                                    </li> */}
                                     <li>
                                         <Link href="/contact-us">
                                             <a>Contact</a>
@@ -185,7 +185,7 @@ const Footer = () => {
 
                             <div className="col-lg-6">
                                 <p className="right">
-                                    Copyright @{currentYear} Thermelgy. All Rights Reserved by <a href="https://hibootstrap.com/" target="_blank">HiBootstrap.com</a>
+                                    Copyright @{currentYear} Thermelgy.
                                 </p>
                             </div>
                         </div>

@@ -13,10 +13,10 @@ const WhyChooseUs = () => {
             <div className="container">
                 <div className="section-title">
                     <span>Why Choose Us</span>
-                    <h2>We Achieved People’s Trust by Our Great Service</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse.</p>
+                    <h2>We Achieved People’s Trust by Our Great Services</h2>
+                    {/* <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse.</p> */}
                 </div>
-				
+
                 <div className="row align-items-center">
                     <div className="col-lg-6">
                         <div className="choose-img">
@@ -31,12 +31,17 @@ const WhyChooseUs = () => {
                                     <AccordionItem>
                                         <AccordionItemHeading>
                                             <AccordionItemButton>
-                                                Great Understanding
+                                                Trace (with Relevance)
                                             </AccordionItemButton>
                                         </AccordionItemHeading>
                                         <AccordionItemPanel>
                                             <p>
-                                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt sit amet consectetur adipiscing.
+                                                ✓ Proprietary IoT platform enabling
+                                                sensing & measuring business
+                                                critical information<br />
+                                                ✓ 360° measurements (Internal &
+                                                External)<br />
+                                                ✓ Accurate, granular and Systematic
                                             </p>
                                         </AccordionItemPanel>
                                     </AccordionItem>
@@ -44,12 +49,17 @@ const WhyChooseUs = () => {
                                     <AccordionItem>
                                         <AccordionItemHeading>
                                             <AccordionItemButton>
-                                                Update Technology
+                                                Monitor (with Intelligence)
                                             </AccordionItemButton>
                                         </AccordionItemHeading>
                                         <AccordionItemPanel>
                                             <p>
-                                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt sit amet consectetur adipiscing.
+                                                ✓ Proprietary IoT Wireless Sensor
+                                                Network enabling secure data transfer
+                                                in seconds<br />
+                                                ✓ Blend of physics and data to frame<br />
+                                                ✓ Digital Twin providing actionable
+                                                insights
                                             </p>
                                         </AccordionItemPanel>
                                     </AccordionItem>
@@ -57,17 +67,22 @@ const WhyChooseUs = () => {
                                     <AccordionItem>
                                         <AccordionItemHeading>
                                             <AccordionItemButton>
-                                                Experienced Team
+                                                Yield (with precision)
                                             </AccordionItemButton>
                                         </AccordionItemHeading>
                                         <AccordionItemPanel>
                                             <p>
-                                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt sit amet consectetur adipiscing.
+                                                ✓ Self service auto scalable
+                                                proprietary Artificial Intelligence
+                                                (AI) Distributed Micro Services,
+                                            Multi-Cloud Platform<br />
+                                            ✓ Remote control<br />
+                                            ✓ Energy savings/Productivity
                                             </p>
                                         </AccordionItemPanel>
                                     </AccordionItem>
 
-                                    <AccordionItem>
+                                    {/* <AccordionItem>
                                         <AccordionItemHeading>
                                             <AccordionItemButton>
                                                 Best Quality Service
@@ -78,7 +93,7 @@ const WhyChooseUs = () => {
                                                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt sit amet consectetur adipiscing.
                                             </p>
                                         </AccordionItemPanel>
-                                    </AccordionItem>
+                                    </AccordionItem> */}
                                 </Accordion>
                             </div>
                         </div>

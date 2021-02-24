@@ -10,10 +10,9 @@ const AboutUsArea = () => {
                             <div className="company-tittle">
                                 <span>About Us</span>
                                 <h2>Innovative It Helping Service All Over the World</h2>
-
-                                <p>It is a long established fact that a reader will be distracted by the rea dable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more or less normal distribution of letters, as opposed to using Content here,content here normal distribution looking at its.</p>
-                            
-                                <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form variations passages.</p>
+                                <p>Thermelgy’s TMY (Trace, Monitor and Yield) framework is aimed to disrupt the way Energy, occupational safety & comfort and machine health is monitored and managed. The TMY leverages the technology built at the intersection of IoT, Systems Physics understanding, and Data Science. We aim to provide a user-friendly and cost effective solution to our client which saves on their monthly energy bill and provide predictive maintenance for their critical machines.</p>
+                                <p>Thermelgy is promoted by the serial entrepreneur in the cleantech space.</p>
+                                <p>The idea root lies from the leading technology institutions such as IIT Madras. Almost 50% of Energy in all its form in the world goes in to the Industrial Sector, out of which 65% is available as heat or Thermal energy and about 35% as Electrical Energy. There lies a need to understand the quantity and quality of these energies, where and how it’s being used, there by understanding efficiency of the process, machines and systems. We strives to provide market-leading intelligent solutions to help companies cut down on costs while saving the environment.</p>
                             </div>
                         </div>
                     </div>

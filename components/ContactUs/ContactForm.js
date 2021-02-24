@@ -7,7 +7,7 @@ const ContactForm = () => {
                 <div className="section-title">
                     <span>Contact Us</span>
                     <h2>Let Us Know About Your Project Idea!</h2>
-                    <p>It is a long established fact that a reader will be distracted by the rea dable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more.</p>
+                    {/* <p>It is a long established fact that a reader will be distracted by the rea dable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more.</p> */}
                 </div>
 
                 <div className="row">
@@ -15,11 +15,11 @@ const ContactForm = () => {
                         <div className="content">
                             <form id="contactForm">
                                 <div className="row">
-                                    <div className="col-lg-12 col-sm-12">
+                                    {/* <div className="col-lg-12 col-sm-12">
                                         <div className="form-group">
                                             <input type="text" name="name" id="name" className="form-control" required placeholder="Your Name" />
                                         </div>
-                                    </div>
+                                    </div> */}
 
                                     <div className="col-lg-12 col-sm-12">
                                         <div className="form-group">
@@ -33,17 +33,17 @@ const ContactForm = () => {
                                         </div>
                                     </div>
 
-                                    <div className="col-lg-12 col-sm-12">
+                                    {/* <div className="col-lg-12 col-sm-12">
                                         <div className="form-group">
                                             <input type="text" name="msg_subject" id="msg_subject" className="form-control" required placeholder="Subject" />
                                         </div>
-                                    </div>
+                                    </div> */}
 
-                                    <div className="col-lg-12 col-md-12">
+                                    {/* <div className="col-lg-12 col-md-12">
                                         <div className="form-group">
                                             <textarea name="message" className="form-control" id="message" rows="5" required placeholder="Your Message"></textarea>
                                         </div>
-                                    </div>
+                                    </div> */}
 
                                     <div className="col-lg-12 col-md-12">
                                         <button type="submit" className="default-btn page-btn box-btn">

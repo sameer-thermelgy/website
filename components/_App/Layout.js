@@ -12,21 +12,21 @@ const Layout = ({ children }) => {
         setTimeout(() => setLoader(false), 1500);
     }, [])
 
-    return(
+    return (
         <React.Fragment>
             <Head>
-                <title>Zoko - React IT Solutions & Digital Services Template</title>
+                <title>Thermelgy</title>
                 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-                <meta name="description" content="Zoko - React IT Solutions & Digital Services Template" />
-                <meta name="og:title" property="og:title" content="Zoko - React IT Solutions & Digital Services Template"></meta>
-                <meta name="twitter:card" content="Zoko - React IT Solutions & Digital Services Template"></meta>
+                <meta name="description" content="Thermelgy" />
+                <meta name="og:title" property="og:title" content="Thermelgy"></meta>
+                <meta name="twitter:card" content="Thermelgy"></meta>
                 <link rel="canonical" href="https://zoko-react.hibootstrap.com/"></link>
             </Head>
 
             {children}
 
             {loader ? <Preloader /> : null}
-        
+
             <GoTop scrollStepInPx="100" delayInMs="10.50" />
         </React.Fragment>
     );

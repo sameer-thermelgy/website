@@ -31,7 +31,7 @@ const Navbar = () => {
                         <nav className="navbar navbar-expand-lg navbar-light">
                             <Link href="/">
                                 <a onClick={toggleNavbar} className="navbar-brand">
-                                    <img src="/images/logo.png" alt="logo" />
+                                    <img src="/images/thermelgy-logo.png" alt="logo" />
                                 </a>
                             </Link>
 
@@ -52,8 +52,8 @@ const Navbar = () => {
                             <div className={classOne} id="navbarSupportedContent">
                                 <ul className="navbar-nav text-left">
                                     <li className="nav-item">
-                                        <Link href="#" activeClassName="active">
-                                            <a onClick={e => e.preventDefault()} className="nav-link dropdown-toggle">
+                                        <Link href="/" activeClassName="active">
+                                            <a className="nav-link">
                                                 Home
                                             </a>
                                         </Link>
@@ -87,12 +87,12 @@ const Navbar = () => {
 
                                     <li className="nav-item">
                                         <Link href="#">
-                                            <a onClick={e => e.preventDefault()} className="nav-link dropdown-toggle">
+                                            <a onClick={e => e.preventDefault()} className="nav-link">
                                                 Solutions
                                             </a>
                                         </Link>
 
-                                        <ul className="dropdown-menu">
+                                        {/* <ul className="dropdown-menu">
                                             <li className="nav-item">
                                                 <Link href="/solutions" activeClassName="active">
                                                     <a onClick={toggleNavbar} className="nav-link">Solutions</a>
@@ -104,17 +104,17 @@ const Navbar = () => {
                                                     <a onClick={toggleNavbar} className="nav-link">Solutions Details</a>
                                                 </Link>
                                             </li>
-                                        </ul>
+                                        </ul> */}
                                     </li>
 
                                     <li className="nav-item">
                                         <Link href="#">
-                                            <a onClick={e => e.preventDefault()} className="nav-link dropdown-toggle">
+                                            <a onClick={e => e.preventDefault()} className="nav-link">
                                                 Clients
                                             </a>
                                         </Link>
 
-                                        <ul className="dropdown-menu">
+                                        {/* <ul className="dropdown-menu">
                                             <li className="nav-item">
                                                 <Link href="/solutions" activeClassName="active">
                                                     <a onClick={toggleNavbar} className="nav-link">Clients</a>
@@ -126,7 +126,7 @@ const Navbar = () => {
                                                     <a onClick={toggleNavbar} className="nav-link">Clients Details</a>
                                                 </Link>
                                             </li>
-                                        </ul>
+                                        </ul> */}
                                     </li>
 
                                     {/* <li className="nav-item">
@@ -245,7 +245,7 @@ const Navbar = () => {
                                 </ul>
                             </div>
 
-                            <div className="nav-right">
+                            {/* <div className="nav-right">
                                 <form>
                                     <div className="input-group">
                                         <input type="text" className="form-control search" placeholder="Search..." />
@@ -260,7 +260,7 @@ const Navbar = () => {
                                 <Link href="#">
                                     <a className="box-btn">Get Started</a>
                                 </Link>
-                            </div>
+                            </div> */}
                         </nav>
                     </div>
                 </div>
