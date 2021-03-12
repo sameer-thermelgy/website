@@ -49,7 +49,7 @@ const TeamMembers = () => {
                 >
                     <div className="single-team">
                         <div className="team-img">
-                            <img src="/images/team/team16.jpg" alt="team" />
+                            <img src="/images/members/satya.jpg" alt="team" />
                             <ul className="social">
                                 <li>
                                     <a href="https://www.linkedin.com/in/satyaseshadri/" target="_blank">
@@ -82,7 +82,7 @@ const TeamMembers = () => {
 
                     <div className="single-team">
                         <div className="team-img">
-                            <img src="/images/team/team17.jpg" alt="team" />
+                            <img src="/images/members/jayesh.jpg" alt="team" />
                             <ul className="social">
                                 <li>
                                     <a href="https://www.linkedin.com/in/jayeshprofile/" target="_blank">
@@ -115,7 +115,7 @@ const TeamMembers = () => {
 
                     <div className="single-team">
                         <div className="team-img">
-                            <img src="/images/team/team18.jpg" alt="team" />
+                            <img src="/images/members/sridharan.jpg" alt="team" />
                             <ul className="social">
                                 <li>
                                     <a href="https://www.linkedin.com/in/sridharan-murugadass-90bb789b" target="_blank">
@@ -148,7 +148,7 @@ const TeamMembers = () => {
 
                     <div className="single-team">
                         <div className="team-img">
-                            <img src="/images/team/team19.jpg" alt="team" />
+                            <img src="/images/members/person.png" alt="team" />
                             <ul className="social">
                                 <li>
                                     <a href="https://www.linkedin.com/in/shri-krishna-776b91141/" target="_blank">
@@ -181,7 +181,7 @@ const TeamMembers = () => {
 
                     <div className="single-team">
                         <div className="team-img">
-                            <img src="/images/team/team16.jpg" alt="team" />
+                            <img src="/images/members/sameer.jpg" alt="team" />
                             <ul className="social">
                                 <li>
                                     <a href="https://www.linkedin.com/in/sameersanjeevi/" target="_blank">
@@ -214,7 +214,7 @@ const TeamMembers = () => {
 
                     <div className="single-team">
                         <div className="team-img">
-                            <img src="/images/team/team16.jpg" alt="team" />
+                            <img src="/images/members/female.jpg" alt="team" />
                             <ul className="social">
                                 <li>
                                     <a href="https://www.linkedin.com/in/princymariayesu/" target="_blank">
@@ -247,7 +247,7 @@ const TeamMembers = () => {
 
                     <div className="single-team">
                         <div className="team-img">
-                            <img src="/images/team/team17.jpg" alt="team" />
+                            <img src="/images/members/asish.jpg" alt="team" />
                             <ul className="social">
                                 <li>
                                     <a href="https://www.linkedin.com/in/asish-johney-george-8115231a0/" target="_blank">
@@ -280,7 +280,7 @@ const TeamMembers = () => {
 
                     <div className="single-team">
                         <div className="team-img">
-                            <img src="/images/team/team18.jpg" alt="team" />
+                            <img src="/images/members/person.png" alt="team" />
                             <ul className="social">
                                 <li>
                                     <a href="#" target="_blank">
@@ -313,7 +313,7 @@ const TeamMembers = () => {
 
                     <div className="single-team">
                         <div className="team-img">
-                            <img src="/images/team/team19.jpg" alt="team" />
+                            <img src="/images/members/abishek.jpg" alt="team" />
                             <ul className="social">
                                 <li>
                                     <a href="https://www.linkedin.com/in/abishek-arjunan-b19311a3/" target="_blank">

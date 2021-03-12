@@ -9,12 +9,12 @@ const Team = () => {
         <React.Fragment>
             <TopHeader />
             <Navbar />
-            <PageBanner 
-                pageTitle="Team" 
-                homePageUrl="/" 
-                homePageText="Home" 
-                activePageText="Team" 
-            /> 
+            <PageBanner
+                pageTitle="Team"
+                homePageUrl="/"
+                homePageText="Home"
+                activePageText="Team"
+            />
 
             <div className="team-area ptb-100">
                 <div className="container">
@@ -262,7 +262,7 @@ const Team = () => {
                     </div>
                 </div>
             </div>
-      
+
             <Footer />
         </React.Fragment>
     )

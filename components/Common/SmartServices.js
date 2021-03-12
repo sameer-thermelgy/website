@@ -7,7 +7,7 @@ const SmartServices = () => {
             <div className="container">
                 <div className="section-title">
                     <span>Smart Services</span>
-                    <h2>Provide All Kind of Tech Solutions</h2>
+                    <h2>Providing all kinds of Tech Solutions</h2>
                     {/* <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse.</p> */}
                 </div>
 
@@ -19,18 +19,15 @@ const SmartServices = () => {
                             </div>
 
                             <div className="service-content">
-                                <h3>IoT platform Cloud platform Autonomous Controls</h3>
+                                <h3>End to End IoT solutions</h3>
                                 <p>
-                                    Proprietary IoT platform enabling
+                                    • Edge devices and Gateways enabling 360°
+                                    measurements of machines and process<br />
+                                    • IoT platform enabling
                                     sensing & measuring business critical
                                     information<br />
-                                    • 360° measurements (Internal & External)<br />
-                                    • Gateway- Modbus enabled<br />
-                                    • Electrical Energy Meter<br />
-                                    • Thermal Energy Meter<br />
-                                    • Indoor Air Quality Sensor<br />
-                                    • Controller (HP, Chiller, Pumps etc)<br />
-                                    • GPRS enabled, Secure data transfer<br />
+                                    • Thermal and Electrical Energy Monitoring<br />
+                                    • HVAC Equipment Monitoring<br />
                                 </p>
                                 {/* <Link href="/solutions-details">
                                     <a className="line-bnt">
@@ -48,16 +45,16 @@ const SmartServices = () => {
                             </div>
 
                             <div className="service-content text-align-right">
-                                <h3>Cloud Services</h3>
+                                <h3>IoT Cloud Platform</h3>
                                 <p>
-                                    • Proprietary micro-services
-                                    framework enabling secure data
-                                transfer in milli-seconds<br />
-                                • SAAS platform<br />
-                                • Ground up which makes it highly
+                                    • Proprietary IoT platform enabling
+                                    sensing & measuring business critical
+                                    information<br />
+                                    • Plug and play services with real-time insights and alerts<br />
+                                    • Micro-services framework enabling secure high speed data transfer<br />
+                                    {/* • Ground up which makes it highly
                                 extensible, fault-tolerant, fast and
-                                efficient.<br />
-                                • Plug and play services<br />
+                                efficient.<br /> */}
                                 </p>
                                 {/* <Link href="/solutions-details">
                                     <a className="line-bnt">
@@ -68,7 +65,7 @@ const SmartServices = () => {
                         </div>
                     </div>
 
-                    <div className="col-lg-4 col-sm-6">
+                    {/* <div className="col-lg-4 col-sm-6">
                         <div className="single-service">
                             <div className="service-img">
                                 <img src="/images/services/service3.png" alt="service" />
@@ -85,7 +82,7 @@ const SmartServices = () => {
                                 </Link>
                             </div>
                         </div>
-                    </div>
+                    </div> */}
 
                     <div className="col-lg-4 col-sm-6">
                         <div className="single-service">
@@ -95,13 +92,20 @@ const SmartServices = () => {
 
                             <div className="service-content">
                                 <h3>Autonomous Controls</h3>
-                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque vel sit maxime assumenda. maiores, magnam</p>
+                                <p>Auto scalable Deep
+                                learning powered Artificial
+                                    Intelligence platform<br />
+                                    • Actionable (physics compliant)
+                                    and explainable (safe &
+                                    reproducible) insights<br />
+                                    • Dedicated Predictive
+                                    Maintenance module </p>
 
-                                <Link href="/solutions-details">
+                                {/* <Link href="/solutions-details">
                                     <a className="line-bnt">
                                         Read More
                                     </a>
-                                </Link>
+                                </Link> */}
                             </div>
                         </div>
                     </div>

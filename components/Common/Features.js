@@ -38,7 +38,7 @@ const Features = () => {
                             </ul>
 
                             {/* <Link> */}
-                            <a target="_blank" href="https://api.whatsapp.com/send?phone=+919176434397&text=Hi, I would like to contact you." className="box-btn">Lets Talk!</a>
+                            <a target="_blank" href="https://api.whatsapp.com/send?phone=+917338883142&text=Hi, I would like to contact you." className="box-btn">Lets Talk!</a>
                             {/* </Link> */}
                         </div>
                     </div>

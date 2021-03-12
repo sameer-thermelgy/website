@@ -10,12 +10,12 @@ const Blog = () => {
         <React.Fragment>
             <TopHeader />
             <Navbar />
-            <PageBanner 
-                pageTitle="Blog" 
-                homePageUrl="/" 
-                homePageText="Home" 
-                activePageText="Blog" 
-            /> 
+            <PageBanner
+                pageTitle="Blog"
+                homePageUrl="/"
+                homePageText="Home"
+                activePageText="Blog"
+            />
 
             <div className="home-blog-area ptb-100">
                 <div className="container">
@@ -41,14 +41,14 @@ const Blog = () => {
                                         <li>10 April 2020</li>
                                         <li><a href="#">By Admin</a></li>
                                     </ul>
-                                    
+
                                     <Link href="/blog-details">
                                         <a>
                                             <h3>Joe’s Company Software Development Case</h3>
                                         </a>
                                     </Link>
                                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas in fugit minima modi perspiciatis nam aspernatur porro</p>
-                                    
+
                                     <Link href="/blog-details">
                                         <a className="line-bnt">Read More</a>
                                     </Link>
@@ -239,7 +239,7 @@ const Blog = () => {
                     </div>
                 </div>
             </div>
-        
+
             <Footer />
         </React.Fragment>
     )

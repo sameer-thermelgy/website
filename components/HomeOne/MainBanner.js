@@ -30,7 +30,7 @@ const MainBanner = () => {
                             <div className="col-lg-6">
                                 {/* <div className="banner-img"> */}
                                 {/* <img src="/images/banner-img-1.png" alt="banner-img" /> */}
-                                {/* <iframe src='https://www.youtube.com/embed/E7wJTI-1dvQ'
+                                <iframe src='https://www.youtube.com/embed/2_jn9_plllU'
                                     frameborder='0'
                                     allow='autoplay; encrypted-media'
                                     allowfullscreen="true"
@@ -38,7 +38,7 @@ const MainBanner = () => {
                                     width="500"
                                     height='350'
                                     scrolling="yes"
-                                /> */}
+                                />
                                 {/* </div> */}
                             </div>
                         </div>

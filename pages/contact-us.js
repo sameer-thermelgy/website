@@ -11,12 +11,12 @@ const ContactUs = () => {
         <React.Fragment>
             <TopHeader />
             <Navbar />
-            <PageBanner 
-                pageTitle="Contact Us" 
-                homePageUrl="/" 
-                homePageText="Home" 
-                activePageText="Contact Us" 
-            /> 
+            <PageBanner
+                pageTitle="Contact Us"
+                homePageUrl="/"
+                homePageText="Home"
+                activePageText="Contact Us"
+            />
             <ContactInfo />
             <ContactForm />
             <Footer />

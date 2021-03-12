@@ -20,15 +20,15 @@ const Index = () => {
             <TopHeader />
             <Navbar />
             <MainBanner />
-            <SmartServices />
             <OurCompany />
+            <SmartServices />
             <WhyChooseUs />
             <WorkingProcess />
-            <CaseStudies />
+            {/* <CaseStudies /> */}
             <Features />
             <TeamMembers />
-            <Testimonials />
-            <BlogPost />
+            {/* <Testimonials /> */}
+            {/* <BlogPost /> */}
             <ContactUs />
             <Footer />
         </React.Fragment>

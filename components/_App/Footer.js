@@ -34,7 +34,7 @@ const Footer = () => {
                                         <a href="#" target="_blank"><i className='bx bxl-facebook' ></i></a>
                                     </li>
                                     <li>
-                                        <a href="#" target="_blank"><i className='bx bxl-twitter' ></i></a>
+                                        <a href="https://twitter.com/thermelgy" target="_blank"><i className='bx bxl-twitter' ></i></a>
                                     </li>
                                     <li>
                                         <a href="#" target="_blank"><i className='bx bxl-instagram' ></i></a>

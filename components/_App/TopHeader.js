@@ -42,7 +42,7 @@ const TopHeader = () => {
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="#" target="_blank">
+                                    <a href="https://twitter.com/thermelgy" target="_blank">
                                         <i className="bx bxl-twitter"></i>
                                     </a>
                                 </li>

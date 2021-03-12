@@ -19,7 +19,7 @@ const AboutUsArea = () => {
 
                     <div className="col-lg-6 col-md-12">
                         <div className="company-img">
-                            <img src="/images/about-img-2.jpg" alt="company" />
+                            <img src="/images/about_us.jpg" alt="company" />
                         </div>
                     </div>
                 </div>

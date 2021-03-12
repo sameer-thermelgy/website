@@ -15,18 +15,18 @@ const AboutUs = () => {
         <React.Fragment>
             <TopHeader />
             <Navbar />
-            <PageBanner 
-                pageTitle="About" 
-                homePageUrl="/" 
-                homePageText="Home" 
-                activePageText="About" 
-            /> 
+            <PageBanner
+                pageTitle="About"
+                homePageUrl="/"
+                homePageText="Home"
+                activePageText="About"
+            />
             <AboutUsArea />
-            <Features />
-            <OurCompany />
-            <TechnologyUpdate />
-            <TeamMembers />
-            <Testimonials />
+            {/* <Features /> */}
+            {/* <OurCompany /> */}
+            {/* <TechnologyUpdate /> */}
+            {/* <TeamMembers /> */}
+            {/* <Testimonials /> */}
             <Footer />
         </React.Fragment>
     )

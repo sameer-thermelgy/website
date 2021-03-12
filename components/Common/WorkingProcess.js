@@ -7,10 +7,12 @@ const WorkingProcess = () => {
                 <div className="section-title">
                     <span>Working Process</span>
                     <h2>We are popular because of our way of working</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse.</p>
+                    {/* <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse.</p> */}
                 </div>
-
-                <div className="row">
+                <div style={{ display: 'flex', justifyContent: 'center' }}>
+                    <img style={{ height: '50%', width: '50%' }} src="/images/Architecture.png" alt="process" />
+                </div>
+                {/* <div className="row">
                     <div className="col-lg-3 col-sm-6">
                         <div className="single-process">
                             <div className="icon">
@@ -75,7 +77,7 @@ const WorkingProcess = () => {
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> */}
             </div>
         </div>
     )
